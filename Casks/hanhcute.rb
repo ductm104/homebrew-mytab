@@ -1,6 +1,6 @@
 cask "hanhcute" do
-  version "0.0.86"
-  sha256 "1d3fde21f3fa4d52af6fbcadb5455e81489ab801a13c0a28724de0d58e5d6be8"
+  version "0.0.87"
+  sha256 "7f1d2ee565e8b9c634282ad37a0cb145cb6453477c7943dbf1d74f2e0311e171"
 
   url "https://github.com/ductm104/Handy/releases/download/v#{version}/HanhCute_#{version}_aarch64.dmg",
       verified: "github.com/ductm104/Handy/"
