@@ -8,6 +8,7 @@ cask "imgsh" do
   homepage "https://github.com/ductm104/imgsh"
 
   depends_on arch: :arm64
+  depends_on :macos
 
   app "imgsh.app"
 end
