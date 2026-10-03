@@ -45,6 +45,18 @@ When a new version of HanhCute is released:
    git push
    ```
 
+## imgsh
+
+Browse SSH remotes and upload images and files over SCP. macOS Apple Silicon only.
+
+```sh
+brew install --cask ductm104/mytab/imgsh
+```
+
+Downloads and source: https://github.com/ductm104/imgsh
+
+The initial release is ad hoc signed and is not Apple notarized.
+
 ## Repository Layout
 
 - `Casks/` — Homebrew casks for macOS `.app` applications
