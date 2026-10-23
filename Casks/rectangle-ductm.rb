@@ -1,6 +1,6 @@
 cask "rectangle-ductm" do
-  version "2.0.4-ductm.1"
-  sha256 "793ce3c89b49c2d8bfa22bcfe487de7653c34afb1727c8d05597957d2ebe5dbb"
+  version "2.0.4-ductm.2"
+  sha256 "0a42020866da39e1fce8ca44b20bfb7ae4e85196bacc2fc1b1bce85d939d3c43"
 
   url "https://github.com/ductm104/Rectangle/releases/download/v#{version}/Rectangle_#{version}_universal.zip"
   name "Rectangle"
