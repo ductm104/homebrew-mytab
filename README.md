@@ -57,6 +57,18 @@ Downloads and source: https://github.com/ductm104/imgsh
 
 The initial release is ad hoc signed and is not Apple notarized.
 
+## Rectangle
+
+Fork of [Rectangle](https://github.com/rxhanson/Rectangle) with instant Space switching for trackpad swipes and Ctrl+Left/Right. Replaces the upstream `rectangle` cask.
+
+```sh
+brew install --cask ductm104/mytab/rectangle-ductm
+```
+
+Downloads and source: https://github.com/ductm104/Rectangle
+
+Self-signed and not Apple notarized.
+
 ## Repository Layout
 
 - `Casks/` — Homebrew casks for macOS `.app` applications
